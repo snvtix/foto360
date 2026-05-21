@@ -1,2 +1,2 @@
 # foto360
-360 photography project
+360-degree photo booth project.
